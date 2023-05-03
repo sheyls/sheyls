@@ -13,18 +13,10 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,linux,bash,cs" />
+        <img src="https://skillicons.dev/icons?i=python,linux,bash,cs,c" />
     </a>
 </p>
 
-# 🔭Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sheyls"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
