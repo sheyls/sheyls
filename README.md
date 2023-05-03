@@ -18,12 +18,8 @@
 </p>
 
 
-
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Internet Explorer" align="center" width="128">
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=sheyls&theme=github"/>
-</div>
 
