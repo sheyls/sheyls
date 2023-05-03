@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
 <h2> Hi, I'm Sheyla &#8203 &#8203
 	<a href="https://t.me/sheyls">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
@@ -18,8 +22,15 @@
 </p>
 
 
+</div>
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Internet Explorer" align="center" width="128">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
 </div>
 
 
