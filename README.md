@@ -11,7 +11,7 @@
 	</a>
 </h3>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
 
 
 - 💻 Almost Computer Scientist, senior student at [@matcom](https://github.com/matcom)
