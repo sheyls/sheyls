@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
 
 <h2> &#8203 &#8203
 	<a href="https://t.me/sheyls">
