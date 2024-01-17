@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
 
 
-- 💻 Almost Computer Scientist, senior student at [@matcom](https://github.com/matcom)
+- 💻 Computer Scientist!
 - 🐍 Python enthusiast!
 - ❤️ Love art and divulgative science
 
