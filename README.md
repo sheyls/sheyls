@@ -11,13 +11,13 @@
 <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
 
 
-- 💻 Computer Scientist!
+- 💻 Computer Scientist and Master's student in Data Science at [UPM](https://www.upm.es/)
 - 🐍 Python enthusiast!
 - ❤️ Love art and divulgative science
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,linux,bash,cs,c" />
+        <img src="https://skillicons.dev/icons?i=python,linux,bash,cs,c,php" />
     </a>
 </p>
 
