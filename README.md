@@ -3,9 +3,6 @@
 	<a href="https://t.me/sheyls">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
-	<a href="https://twitter.com/_sheyls">
-		<img width="20px" src="https://simpleicons.now.sh/twitter/4c5861" />
-	</a>
 </h3>
 
 <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
