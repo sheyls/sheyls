@@ -1,8 +1,9 @@
 
-<h2> &#8203 &#8203
-	<a href="https://t.me/sheyls">
-		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
-	</a>
+<h3> 
+    &#8203;&#8203;
+    <a href="https://www.linkedin.com/in/sheyls/">
+        <img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" alt="LinkedIn" />
+    </a>
 </h3>
 
 <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
