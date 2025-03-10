@@ -15,7 +15,7 @@
 
 
 <p align="center" style="font-size: 16px; font-weight: bold;">
-  🔍👣 "Programming is like being a detective. Error in line 221B, Baker Street."
+  🔍👣 "Programming is like being a detective. Error in line 221B."
 </p>
 
 
