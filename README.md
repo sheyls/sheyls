@@ -1,8 +1,7 @@
-
-  <a href="https://www.linkedin.com/in/sheyls/">
-    <img style="width: 35px;" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn">
-  </a>
-
+<a href="https://www.linkedin.com/in/sheyls/">
+  <img height="25" alt="LinkedIn"
+       src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 
   <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
