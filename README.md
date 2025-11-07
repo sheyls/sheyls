@@ -6,11 +6,9 @@
 
   <img src="https://raw.githubusercontent.com/sheyls/sheyls/master/resources/banner.png" alt="Hello world">
 
-
-
-  💻 Computer Scientist & Master's Student in Data Science at [UPM](https://www.upm.es/)<br>
-  🐍 Python Developer & AI Enthusiast!<br>
-  🎨 Passionate about Art & Science Communication
+  💻 Computer Scientist & PhD Candidate at [UPM](https://www.upm.es/)<br>
+  🐍 You can do *almost* everything with Python<br>
+  🎨 Creativity fuels innovation
 
 
 <p align="center" style="font-size: 16px; font-weight: bold;">
